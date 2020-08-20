@@ -1,4 +1,4 @@
-# Neural-Machine-Translation-Italian-to-English-
+# Neural-Machine-Translation-Italian-to-English
  This repository contains italian to english neural translation using:
  
  
